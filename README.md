@@ -17,3 +17,5 @@ Some music artists/bands
 - Kendrick Lamar
 - J.Cole
 - Cage The Elephant
+
+all these commits need to be gone
