@@ -7,3 +7,13 @@ Some lorem ipsum
 > this is a bugfix
 
 Mac Miller <3
+
+Some music artists/bands
+
+- Eminem
+- The Kooks
+- The Strokes
+- 1975
+- Kendrick Lamar
+- J.Cole
+- Cage The Elephant
